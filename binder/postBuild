@@ -1,0 +1,3 @@
+#!/bin/bash
+python -m spacy download en
+python -m gensim.downloader --download word2vec-google-news-300
