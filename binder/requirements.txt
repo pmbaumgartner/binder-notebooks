@@ -7,6 +7,7 @@ boto3==1.7.2
 botocore==1.10.2
 bz2file==0.98
 certifi==2018.1.18
+cffi==1.11.5
 chardet==3.0.4
 cycler==0.10.0
 cymem==1.31.2
@@ -33,6 +34,7 @@ matplotlib==2.2.2
 mistune==0.8.3
 msgpack-numpy==0.4.1
 msgpack-python==0.5.6
+MulticoreTSNE==0.0.1.1
 murmurhash==0.28.0
 nbconvert==5.3.1
 nbformat==4.4.0
@@ -43,12 +45,15 @@ pandas==0.22.0
 pandocfilters==1.4.2
 parso==0.1.1
 pathlib==1.0.1
+patsy==0.5.0
 pexpect==4.4.0
 pickleshare==0.7.4
 plac==0.9.6
 preshed==1.0.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
+pycparser==2.18
+pyemd==0.5.1
 Pygments==2.2.0
 pyparsing==2.2.0
 python-dateutil==2.7.2
@@ -60,11 +65,13 @@ requests==2.18.4
 s3transfer==0.1.13
 scikit-learn==0.19.1
 scipy==1.0.1
+seaborn==0.7.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
 smart-open==1.5.7
 spacy==2.0.11
+statsmodels==0.8.0
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
@@ -78,3 +85,4 @@ urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
 wrapt==1.10.11
+XlsxWriter==1.0.2
