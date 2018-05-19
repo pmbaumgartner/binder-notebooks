@@ -6,7 +6,6 @@ boto==2.48.0
 boto3==1.7.2
 botocore==1.10.2
 bz2file==0.98
-certifi==2018.1.18
 cffi==1.11.5
 chardet==3.0.4
 cycler==0.10.0
@@ -22,6 +21,7 @@ idna==2.6
 ipykernel==4.8.2
 ipython==6.3.1
 ipython-genutils==0.2.0
+ipywidgets==7.2.1
 jedi==0.11.1
 Jinja2==2.10
 jmespath==0.9.3
@@ -29,6 +29,7 @@ jsonschema==2.6.0
 jupyter-client==5.2.3
 jupyter-core==4.4.0
 kiwisolver==1.0.1
+llvmlite==0.22.0
 MarkupSafe==1.0
 matplotlib==2.2.2
 mistune==0.8.3
@@ -39,8 +40,10 @@ murmurhash==0.28.0
 nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.4.1
+numba==0.37.0
 numpy==1.14.2
 packaging==17.1
+palettable==3.1.0
 pandas==0.22.0
 pandocfilters==1.4.2
 parso==0.1.1
@@ -49,6 +52,7 @@ patsy==0.5.0
 pexpect==4.4.0
 pickleshare==0.7.4
 plac==0.9.6
+plotly==2.5.1
 preshed==1.0.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
@@ -78,11 +82,14 @@ testpath==0.3.1
 thinc==6.10.2
 toolz==0.9.0
 tornado==5.0.2
-tqdm==4.21.0
+tqdm==4.23.0
 traitlets==4.3.2
 ujson==1.35
+umap-learn==0.2.3
 urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
+widgetsnbextension==3.2.1
 wrapt==1.10.11
+xlrd==1.1.0
 XlsxWriter==1.0.2

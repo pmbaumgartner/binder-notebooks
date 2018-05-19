@@ -1,3 +1,5 @@
 #!/bin/bash
 python -m spacy download en
+python -m spacy download en_core_web_lg
 python -m gensim.downloader --download word2vec-google-news-300
+jupyter nbextension enable --py widgetsnbextension
