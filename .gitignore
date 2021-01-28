@@ -105,3 +105,4 @@ venv.bak/
 
 *.gz
 .vscode/
+.DS_Store
