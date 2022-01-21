@@ -4,7 +4,7 @@ gensim==3.8.3
 hdbscan==0.8.26
 importlib-metadata==1.7.0
 ipykernel==5.3.2
-ipython==7.16.1
+ipython==7.16.3
 jsonschema==3.2.0
 jupyter-client==6.1.5
 jupyter-core==4.6.3
